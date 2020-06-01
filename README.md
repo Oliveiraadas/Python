@@ -1,2 +1,2 @@
 # Python
-Puthon Py
+Python Py
